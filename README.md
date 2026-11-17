@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Ketan — Computer Science Student, AI/ML & Software Development" width="100%">
+</p>
 # Ketan
 
 **Computer Science Student · AI/ML · Software Development**
