@@ -2,7 +2,7 @@
 
 **Computer Science Student · AI/ML · Software Development**
 
-I'm a B.Tech CSE student specializing in Artificial Intelligence and Machine Learning.
+I'm a B.Tech CSE student specialising in Artificial Intelligence and Machine Learning.
 
 I learn mostly by building. I'm interested in understanding how software works beyond just making something run — from the backend and data layer to the decisions and trade-offs behind a system.
 
